@@ -1,0 +1,13 @@
+.custom-scroll::-webkit-scrollbar {
+    width: 8px;
+}
+
+.custom-scroll::-webkit-scrollbar-track {
+    background: #fb923c;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+    background-color: white;
+    /* azul Tailwind */
+    border-radius: 10px;
+}
